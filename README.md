@@ -1,6 +1,5 @@
 # SIMPLE-ADDRESS-BOOK-PROJECT
 The Simple Address Book is a C-based program designed to help users store and manage personal contact information easily
-🧾 Project Overview
 
 The Simple Address Book is a basic C program designed to manage and organize contact information efficiently.
 It allows users to add, view, search, and delete contact records through a simple text-based menu.
